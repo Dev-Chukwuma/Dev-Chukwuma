@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Divine Chukwuma 👋</h1>
-<h3 align="center">Full-Stack Developer & Cybersecurity Enthusiast</h3>
+<h3 align="center">SOC Analyst In training & Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack-React%20%7C%20Django-blue" />
