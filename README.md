@@ -15,9 +15,9 @@
 
 
 
-![React](https://img.shields.io/badge/-React%20(Vite)
+![React](https://img.shields.io/badge/-React%20Vite-61DAFB?style=flat-square&logo=react&logoColor=black)
 
--61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -129,7 +129,7 @@ I run two self-structured, publicly-documented learning journeys instead of just
 - **[30 Days of Cybersecurity](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity)** — a Blue Team roadmap covering networking, Linux/Windows fundamentals, log analysis, SIEM (Splunk/Wazuh), incident response, threat intel, and MITRE ATT&CK, capped off with a full incident report correlating the whole challenge into one attack chain.
 - **[Red Team Roadmap](https://github.com/Dev-Chukwuma/Red-Team-Roadmap)** — a Red Team journey ("learn to think like an attacker, so you can defend like a pro") covering recon, enumeration, exploitation, privilege escalation, Active Directory attacks, and a full red team simulation. Every module ends with a defensive perspective, not just an offensive win.
 
-On the dev side, I've shipped a Django-based sales/inventory system for a family electronics shop, a campus companion app for AFIT students, and clothing-brand storefronts running a WhatsApp-order model.
+On the dev side, I've shipped a Django-based sales/inventory system for a family electronics shop, and clothing-brand storefronts running a WhatsApp-order model.
 
 ### 🛠️ Featured Projects
 
@@ -138,7 +138,6 @@ On the dev side, I've shipped a Django-based sales/inventory system for a family
 | [30 Days of Cybersecurity](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity) | Daily Blue Team challenge — theory, hands-on labs, and documentation | Python, Linux, Splunk |
 | [Automation Script](https://github.com/Dev-Chukwuma/Automation-script) | Automates README updates, git commits/push, and progress-post generation for the 30-day challenge | Python |
 | [Red Team Roadmap](https://github.com/Dev-Chukwuma/Red-Team-Roadmap) | Red Team learning journey — recon through AD attacks, each module with a defensive writeup | Kali, Metasploit, Nmap |
-| AFITHub | Campus companion app for AFIT students | React (Vite), Django REST Framework |
 
 ---
 
