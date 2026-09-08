@@ -91,7 +91,7 @@
 
 
 
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D4?style=flat-square)
 
 
 
@@ -127,7 +127,7 @@ I'm Divine, a Computer Science student at the Air Force Institute of Technology 
 I run two self-structured, publicly-documented learning journeys instead of just consuming tutorials:
 
 - **[30 Days of Cybersecurity](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity)** — a Blue Team roadmap covering networking, Linux/Windows fundamentals, log analysis, SIEM (Splunk/Wazuh), incident response, threat intel, and MITRE ATT&CK, capped off with a full incident report correlating the whole challenge into one attack chain.
-- **30 Days of Looting** — a Red Team journey ("learn to think like an attacker, so you can defend like a pro") covering recon, enumeration, exploitation, privilege escalation, Active Directory attacks, and a full red team simulation. Every module ends with a defensive perspective, not just an offensive win.
+- **[Red Team Roadmap](https://github.com/Dev-Chukwuma/Red-Team-Roadmap)** — a Red Team journey ("learn to think like an attacker, so you can defend like a pro") covering recon, enumeration, exploitation, privilege escalation, Active Directory attacks, and a full red team simulation. Every module ends with a defensive perspective, not just an offensive win.
 
 On the dev side, I've shipped a Django-based sales/inventory system for a family electronics shop, a campus companion app for AFIT students, and clothing-brand storefronts running a WhatsApp-order model.
 
@@ -137,7 +137,7 @@ On the dev side, I've shipped a Django-based sales/inventory system for a family
 |---|---|---|
 | [30 Days of Cybersecurity](https://github.com/Dev-Chukwuma/30-days-of-cybersecurity) | Daily Blue Team challenge — theory, hands-on labs, and documentation | Python, Linux, Splunk |
 | [Automation Script](https://github.com/Dev-Chukwuma/Automation-script) | Automates README updates, git commits/push, and progress-post generation for the 30-day challenge | Python |
-| 30 Days of Looting | Red Team learning journey — recon through AD attacks, each module with a defensive writeup | Kali, Metasploit, Nmap |
+| [Red Team Roadmap](https://github.com/Dev-Chukwuma/Red-Team-Roadmap) | Red Team learning journey — recon through AD attacks, each module with a defensive writeup | Kali, Metasploit, Nmap |
 | AFITHub | Campus companion app for AFIT students | React (Vite), Django REST Framework |
 
 ---
