@@ -141,9 +141,11 @@ On the dev side, I've shipped a Django-based sales/inventory system for a family
 
 ---
 
-
 ### 📫 Connect with me
 
-[X (@httpschuks)](https://x.com/httpschuks) ·[LinkedIn](https://linkedin.com/in/divine-mc-75a34641b)
+<p>
+  <a href="https://x.com/httpschuks"><img src="https://img.shields.io/badge/-@httpschuks-black?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/divine-mc-75a34641b"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <p align="center"><em>Building on the web, and learning how to break and defend it.</em></p>
